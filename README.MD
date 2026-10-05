@@ -57,8 +57,6 @@ modelo_ia = OpenAI(
 )
 
 
-⚠️ Importante: não publique sua chave de API no GitHub. O ideal é utilizar uma variável de ambiente ou um arquivo .env que não seja enviado para o repositório.
-
 4. Execute a aplicação
 
 No terminal, execute:
